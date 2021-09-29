@@ -33,6 +33,5 @@ It is highly compressed columnar file format which is optimized for high speed r
 
 
 ## You're all set. <a href="https://vyuwinglearning.com/">VyuWing</a> is Happy to Help!
->>>>>>> 7406dff19f8ef6c8f73fbf6804dc773e1c72124c
 
 For doubts on the project and to learn more, get in touch with our team : info@vyuwinglearning.com

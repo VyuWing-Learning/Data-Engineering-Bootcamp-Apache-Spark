@@ -12,14 +12,14 @@ Download the sample **Web Server Log** dataset by clicking <a href="https://driv
 To run this project in your local. Follow the below steps: 
 1) Open it up in IntelliJ or any other IDE. (Download IntelliJ Community Version from <a href="https://www.jetbrains.com/idea/download/#section=linux"> here</a>)
 2) Install Scala plugin by going into Settings. (For <a href="https://www.jetbrains.com/help/idea/discover-intellij-idea-for-scala.html">reference</a>)
-![alt text](https://resources.jetbrains.com/help/img/idea/2021.2/scala_plugin_page.png =250x)
+![alt text](https://resources.jetbrains.com/help/img/idea/2021.2/scala_plugin_page.png)
 3) Put the dataset in data directory. (data/access.log)
 4) run _mvn clean install_ on the terminal to download all dependencies and build the jar. IntelliJ users can ignore this step, as it automatically downloads the requisite dependancies and creates the build.
 
 Once you run the main class it will read the data/access.log file and parse it using Apache Spark and write the output files in data/logdata/ directory in parquet file format. It will also print the hourly trend table data on the console.
 
 ## Interactively running the code in Scala shell
-1) Setup the shell from run configuration.
+1) Setup the shell from run configuration.\
 ![alt text](https://i.ibb.co/SyQy2mC/Screenshot-2021-10-01-at-10-10-41-AM.png)\
 
 2) Select scala REPL \

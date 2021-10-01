@@ -11,7 +11,7 @@ Download the sample **Web Server Log** dataset by clicking <a href="https://driv
 ## Project Setup:
 To run this project in your local. Follow the below steps: 
 1) Open it up in IntelliJ or any other IDE. (Download IntelliJ Community Version from <a href="https://www.jetbrains.com/idea/download/#section=linux"> here</a>)
-2) Install Scala plugin by going into Settings. (For <a href="https://www.jetbrains.com/help/idea/discover-intellij-idea-for-scala.html">reference</a>)<img src="https://resources.jetbrains.com/help/img/idea/2021.2/scala_plugin_page.png" width="500" />
+2) Install Scala plugin by going into Settings. (For <a href="https://www.jetbrains.com/help/idea/discover-intellij-idea-for-scala.html">reference</a>)<br/><img src="https://resources.jetbrains.com/help/img/idea/2021.2/scala_plugin_page.png" width="500" />
 3) Put the dataset in data directory. (data/access.log)
 4) run _mvn clean install_ on the terminal to download all dependencies and build the jar. IntelliJ users can ignore this step, as it automatically downloads the requisite dependancies and creates the build.
 

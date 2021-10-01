@@ -20,11 +20,11 @@ Once you run the main class it will read the data/access.log file and parse it u
 
 ## Interactively running the code in Scala shell
 1) Setup the shell from run configuration.
-![alt text](https://confluence.jetbrains.com/download/attachments/51963517/run_scala_console2.png?version=1&modificationDate=1382376466000&api=v2)
+![alt text](https://confluence.jetbrains.com/download/attachments/51963517/run_scala_console2.png?version=1&modificationDate=1382376466000&api=v2)<br />
 
 2) Select scala REPL
-![alt text](https://i.ibb.co/GTz1bsN/Screenshot-2021-10-01-at-10-02-20-AM.png)
-![alt text](https://i.ibb.co/cL3m0pD/Screenshot-2021-10-01-at-10-01-42-AM.png)
+![alt text](https://i.ibb.co/GTz1bsN/Screenshot-2021-10-01-at-10-02-20-AM.png)<br />
+![alt text](https://i.ibb.co/cL3m0pD/Screenshot-2021-10-01-at-10-01-42-AM.png)<br />
 
 3) Run the Scala REPL and execute the code by _CTRL + ALT + X_  for windows and _CONTROL + COMMAND + X_ for Mac users.
 

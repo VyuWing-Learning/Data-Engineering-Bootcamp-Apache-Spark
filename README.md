@@ -29,12 +29,12 @@ Once you run the main class it will read the data/access.log file and parse it u
 
 For reference please <a href="https://www.jetbrains.com/help/idea/run-debug-configuration-scala-console.html">visit</a>.
 
-## FAQ's
-### what is scala-shell?
+## Frequently Asked Questions
+### What is scala-shell?
 This is an interactive way to run the scala code. It is similar to python shell where we interactively run python scripts.
 
 ### What is parquet file?
-It is highly compressed columnar file format which is optimized for high speed reads and is prominently used in enterprise data warehouses.  Further reads about <a href="https://databricks.com/glossary/what-is-parquet">Apache Parquet.</a>
+It is highly compressed columnar file format which is optimized for high speed reads and is prominently used in enterprise data warehouses. Further reads about <a href="https://databricks.com/glossary/what-is-parquet">Apache Parquet.</a>
 
 
 ## You're all set. <a href="https://vyuwinglearning.com/">VyuWing</a> is Happy to Help!

@@ -22,7 +22,7 @@ Once you run the main class it will read the data/access.log file and parse it u
 1) Setup the shell from run configuration.
 ![alt text](https://confluence.jetbrains.com/download/attachments/51963517/run_scala_console2.png?version=1&modificationDate=1382376466000&api=v2)\
 
-2) Select scala REPL \\
+2) Select scala REPL \
 ![alt text](https://i.ibb.co/GTz1bsN/Screenshot-2021-10-01-at-10-02-20-AM.png)\
 ![alt text](https://i.ibb.co/cL3m0pD/Screenshot-2021-10-01-at-10-01-42-AM.png)
 

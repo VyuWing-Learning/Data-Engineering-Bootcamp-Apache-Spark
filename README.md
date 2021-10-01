@@ -12,6 +12,7 @@ Download the sample **Web Server Log** dataset by clicking <a href="https://driv
 To run this project in your local. Follow the below steps: 
 1) Open it up in IntelliJ or any other IDE. (Download IntelliJ Community Version from <a href="https://www.jetbrains.com/idea/download/#section=linux"> here</a>)
 2) Install Scala plugin by going into Settings. (For <a href="https://www.jetbrains.com/help/idea/discover-intellij-idea-for-scala.html">reference</a>)
+![alt text](https://resources.jetbrains.com/help/img/idea/2021.2/scala_plugin_page.png)
 3) Put the dataset in data directory. (data/access.log)
 4) run _mvn clean install_ to download all dependencies and build the jar.
 
@@ -19,6 +20,7 @@ Once you run the main class it will read the data/access.log file and parse it u
 
 ## Interactively running the code in Scala shell
 1) Setup the shell from run configuration.
+![alt text](https://confluence.jetbrains.com/download/attachments/51963517/run_scala_console2.png?version=1&modificationDate=1382376466000&api=v2)
 2) Select scala REPL 
 3) Run the Scala REPL and execute the code by _CTRL + ALT + X_  for windows and _CONTROL + COMMAND + X_ for Mac users.
 

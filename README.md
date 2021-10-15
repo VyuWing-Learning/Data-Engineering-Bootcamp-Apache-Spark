@@ -25,7 +25,7 @@ Once you run the main class it will read the data/access.log file and parse it u
 ![alt text](https://i.ibb.co/GTz1bsN/Screenshot-2021-10-01-at-10-02-20-AM.png)\
 ![alt text](https://i.ibb.co/cL3m0pD/Screenshot-2021-10-01-at-10-01-42-AM.png)
 
-3) Run the Scala REPL and execute the code by _CTRL + ALT + X_  for windows and _CONTROL + COMMAND + X_ for Mac users.
+3) Run the Scala REPL and execute the code by _CTRL + ALT + X_  for windows and linux users, and _CONTROL + COMMAND + X_ for Mac users.
 
 For reference please <a href="https://www.jetbrains.com/help/idea/run-debug-configuration-scala-console.html">visit</a>.
 
